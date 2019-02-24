@@ -1,3 +1,3 @@
 # PHP-MySQL-Gallery-Assignemt
 
-It's simple Admin panel whicha can hahandle the Photo Gallery.
+It's simple Admin panel which can handle the Photo Gallery.
